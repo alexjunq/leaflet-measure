@@ -5,7 +5,7 @@ Coordinate, linear, and area measure control for [Leaflet](http://leafletjs.com)
 <hr>
 
 
-## [Demo](http://ljagis.github.io/leaflet-measure)
+## [Demo](http://alexjunq.github.io/leaflet-measure)
 
 ![](http://ljagis.github.io/leaflet-measure/assets/leaflet-measure.png)
 
